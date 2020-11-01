@@ -1,0 +1,579 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="lblServerListen.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblServerListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>169, 15</value>
+  </data>
+  <data name="lblServerListen.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>79, 15</value>
+  </data>
+  <data name="lblServerListen.Text" xml:space="preserve">
+    <value>Disconnected</value>
+  </data>
+  <data name="btnLoginlogServiceStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>520, 9</value>
+  </data>
+  <data name="btnLoginlogServiceStart.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>152, 27</value>
+  </data>
+  <data name="btnLoginlogServiceStart.Text" xml:space="preserve">
+    <value>Start Loginlog Service</value>
+  </data>
+  <data name="colLogList.Text" xml:space="preserve">
+    <value>Logs</value>
+  </data>
+  <data name="lstServerLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 3</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lstServerLog.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="lstServerLog.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>633, 202</value>
+  </data>
+  <data name="txtLogView.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 211</value>
+  </data>
+  <data name="txtLogView.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>633, 186</value>
+  </data>
+  <data name="btnLoginlogServiceClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>684, 9</value>
+  </data>
+  <data name="btnLoginlogServiceClose.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>78, 23</value>
+  </data>
+  <data name="btnLoginlogServiceClose.Text" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="pName.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="pName.Width" type="System.Int32, System.Private.CoreLib">
+    <value>150</value>
+  </data>
+  <data name="pAccount.Text" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="pAccount.Width" type="System.Int32, System.Private.CoreLib">
+    <value>150</value>
+  </data>
+  <data name="pIP.Text" xml:space="preserve">
+    <value>IP</value>
+  </data>
+  <data name="pIP.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="pLoginDate.Text" xml:space="preserve">
+    <value>Login Date</value>
+  </data>
+  <data name="pLoginDate.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="pLoginTime.Text" xml:space="preserve">
+    <value>Login Time</value>
+  </data>
+  <data name="pLoginTime.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="pPing.Text" xml:space="preserve">
+    <value>ms</value>
+  </data>
+  <data name="pPing.Width" type="System.Int32, System.Private.CoreLib">
+    <value>70</value>
+  </data>
+  <data name="lstOnlinePlayer.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>729, 375</value>
+  </data>
+  <data name="tabCtrlOnlineLog.Alignment" type="System.Windows.Forms.TabAlignment, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="tabOnlinePlayerPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabOnlinePlayerPage.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>735, 411</value>
+  </data>
+  <data name="tabOnlinePlayerPage.Text" xml:space="preserve">
+    <value>Online Players</value>
+  </data>
+  <data name="btnClearLoginLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>640, 5</value>
+  </data>
+  <data name="btnClearLoginLog.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>88, 23</value>
+  </data>
+  <data name="btnClearLoginLog.Text" xml:space="preserve">
+    <value>Clear Log</value>
+  </data>
+  <data name="tabOnlinePlayerLogPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabOnlinePlayerLogPage.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>735, 411</value>
+  </data>
+  <data name="tabOnlinePlayerLogPage.Text" xml:space="preserve">
+    <value>Login Log</value>
+  </data>
+  <data name="tabCtrlOnlineLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 38</value>
+  </data>
+  <data name="tabCtrlOnlineLog.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>766, 419</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>24, 15</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>139, 15</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Login Log Server Status : </value>
+  </data>
+  <data name="tabOnlinePlayerManagerPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabOnlinePlayerManagerPage.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>778, 460</value>
+  </data>
+  <data name="tabOnlinePlayerManagerPage.Text" xml:space="preserve">
+    <value>Online Players</value>
+  </data>
+  <data name="btnUpdateAsMSG.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>84, 23</value>
+  </data>
+  <data name="btnUpdateAsMSG.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="btnDeleteASMessage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>303, 383</value>
+  </data>
+  <data name="btnDeleteASMessage.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>97, 23</value>
+  </data>
+  <data name="btnDeleteASMessage.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="btnAddAsMessage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>303, 350</value>
+  </data>
+  <data name="btnAddAsMessage.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>97, 23</value>
+  </data>
+  <data name="btnAddAsMessage.Text" xml:space="preserve">
+    <value>Add Message</value>
+  </data>
+  <data name="txt_MsgData.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 322</value>
+  </data>
+  <data name="txt_MsgData.MaxLength" type="System.Int32, System.Private.CoreLib">
+    <value>60</value>
+  </data>
+  <data name="txt_MsgData.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>387, 23</value>
+  </data>
+  <data name="btn_AS_Service_Close.Enabled" type="System.Boolean, System.Private.CoreLib">
+    <value>False</value>
+  </data>
+  <data name="btn_AS_Service_Close.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>173, 34</value>
+  </data>
+  <data name="btn_AS_Service_Close.Text" xml:space="preserve">
+    <value>Stop Announcement Service</value>
+  </data>
+  <data name="btn_AS_Service_Start.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>169, 32</value>
+  </data>
+  <data name="btn_AS_Service_Start.Text" xml:space="preserve">
+    <value>Start Announcement Service</value>
+  </data>
+  <data name="btn_reload_asMessages.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 123</value>
+  </data>
+  <data name="btn_reload_asMessages.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>170, 23</value>
+  </data>
+  <data name="btn_reload_asMessages.Text" xml:space="preserve">
+    <value>Reload Messages</value>
+  </data>
+  <data name="btnSetInterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 85</value>
+  </data>
+  <data name="btnSetInterval.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>170, 23</value>
+  </data>
+  <data name="btnSetInterval.Text" xml:space="preserve">
+    <value>Set Interval</value>
+  </data>
+  <data name="lvlInterval.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lvlInterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>560, 50</value>
+  </data>
+  <data name="lvlInterval.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>120, 15</value>
+  </data>
+  <data name="lvlInterval.Text" xml:space="preserve">
+    <value>Message Interval(sec)</value>
+  </data>
+  <data name="txtASinterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>684, 47</value>
+  </data>
+  <data name="txtASinterval.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>78, 23</value>
+  </data>
+  <data name="txtASinterval.Text" xml:space="preserve">
+    <value>60</value>
+  </data>
+  <data name="AS_Msg_List.ItemHeight" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="AS_Msg_List.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 11</value>
+  </data>
+  <data name="AS_Msg_List.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>387, 304</value>
+  </data>
+  <data name="tab_AS_Manager.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tab_AS_Manager.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>778, 460</value>
+  </data>
+  <data name="tab_AS_Manager.Text" xml:space="preserve">
+    <value>Announcement Server</value>
+  </data>
+  <data name="tabControl2.Alignment" type="System.Windows.Forms.TabAlignment, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="lstbox_PVP_Shout.ItemHeight" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="lstbox_PVP_Shout.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>713, 349</value>
+  </data>
+  <data name="tabPVPAlerts.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPVPAlerts.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>735, 411</value>
+  </data>
+  <data name="tabPVPAlerts.Text" xml:space="preserve">
+    <value>PVP Alerts</value>
+  </data>
+  <data name="lstbox_PVPLOG.ItemHeight" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="lstbox_PVPLOG.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>680, 319</value>
+  </data>
+  <data name="tabPVPLogs.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPVPLogs.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>735, 411</value>
+  </data>
+  <data name="tabPVPLogs.Text" xml:space="preserve">
+    <value>PVPLogs</value>
+  </data>
+  <data name="tabControl2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>766, 419</value>
+  </data>
+  <data name="tabPVP.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>778, 460</value>
+  </data>
+  <data name="tabPVP.Text" xml:space="preserve">
+    <value>PVP System</value>
+  </data>
+  <data name="tabASManager.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>786, 488</value>
+  </data>
+  <data name="btnMSLogServerClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>958, 83</value>
+  </data>
+  <data name="btnMSLogServerClose.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 28</value>
+  </data>
+  <data name="btnMSLogServerClose.Text" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="btnMSLogServerStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>800, 82</value>
+  </data>
+  <data name="btnMSLogServerStart.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>152, 27</value>
+  </data>
+  <data name="btnMSLogServerStart.Text" xml:space="preserve">
+    <value>Start Login Log Server</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>129, 15</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Current Player Online : </value>
+  </data>
+  <data name="lblPlayerOnlineCount.AutoSize" type="System.Boolean, System.Private.CoreLib">
+    <value>True</value>
+  </data>
+  <data name="lblPlayerOnlineCount.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>13, 15</value>
+  </data>
+  <data name="lblPlayerOnlineCount.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="listView1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>729, 375</value>
+  </data>
+  <data name="columnHeader1.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="columnHeader1.Width" type="System.Int32, System.Private.CoreLib">
+    <value>150</value>
+  </data>
+  <data name="columnHeader2.Text" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="columnHeader2.Width" type="System.Int32, System.Private.CoreLib">
+    <value>150</value>
+  </data>
+  <data name="columnHeader3.Text" xml:space="preserve">
+    <value>IP</value>
+  </data>
+  <data name="columnHeader3.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="columnHeader4.Text" xml:space="preserve">
+    <value>Login Date</value>
+  </data>
+  <data name="columnHeader4.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="columnHeader5.Text" xml:space="preserve">
+    <value>Login Time</value>
+  </data>
+  <data name="columnHeader5.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="columnHeader6.Text" xml:space="preserve">
+    <value>ms</value>
+  </data>
+  <data name="columnHeader6.Width" type="System.Int32, System.Private.CoreLib">
+    <value>70</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>640, 5</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>88, 23</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Clear Log</value>
+  </data>
+  <data name="richTextBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>633, 186</value>
+  </data>
+  <data name="listView2.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="listView2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>633, 202</value>
+  </data>
+  <data name="columnHeader7.Text" xml:space="preserve">
+    <value>Logs</value>
+  </data>
+  <data name="columnHeader8.Text" xml:space="preserve">
+    <value>Logs</value>
+  </data>
+  <data name="lst_ALL_LOG.ItemHeight" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="lst_ALL_LOG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>804, 361</value>
+  </data>
+  <data name="lst_ALL_LOG.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>230, 184</value>
+  </data>
+  <data name="btnZSGameLogServiceStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>800, 125</value>
+  </data>
+  <data name="btnZSGameLogServiceStart.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>152, 28</value>
+  </data>
+  <data name="btnZSGameLogServiceStart.Text" xml:space="preserve">
+    <value>Start Gamelog Service</value>
+  </data>
+  <data name="btnZSGameLogServiceClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>961, 124</value>
+  </data>
+  <data name="btnZSGameLogServiceClose.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 28</value>
+  </data>
+  <data name="btnZSGameLogServiceClose.Text" xml:space="preserve">
+    <value>Disconnect</value>
+  </data>
+  <data name="btnMSClientStart.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>152, 28</value>
+  </data>
+  <data name="btnMSClientStart.Text" xml:space="preserve">
+    <value>Start Message Service</value>
+  </data>
+  <data name="btnMSClientClose.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 28</value>
+  </data>
+  <data name="btnMSClientClose.Text" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="listView3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>729, 375</value>
+  </data>
+  <data name="columnHeader10.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="columnHeader10.Width" type="System.Int32, System.Private.CoreLib">
+    <value>150</value>
+  </data>
+  <data name="columnHeader11.Text" xml:space="preserve">
+    <value>Account</value>
+  </data>
+  <data name="columnHeader11.Width" type="System.Int32, System.Private.CoreLib">
+    <value>150</value>
+  </data>
+  <data name="columnHeader12.Text" xml:space="preserve">
+    <value>IP</value>
+  </data>
+  <data name="columnHeader12.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="columnHeader13.Text" xml:space="preserve">
+    <value>Login Date</value>
+  </data>
+  <data name="columnHeader13.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="columnHeader14.Text" xml:space="preserve">
+    <value>Login Time</value>
+  </data>
+  <data name="columnHeader14.Width" type="System.Int32, System.Private.CoreLib">
+    <value>100</value>
+  </data>
+  <data name="columnHeader15.Text" xml:space="preserve">
+    <value>ms</value>
+  </data>
+  <data name="columnHeader15.Width" type="System.Int32, System.Private.CoreLib">
+    <value>70</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>640, 5</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>88, 23</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>Clear Log</value>
+  </data>
+  <data name="richTextBox2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>633, 186</value>
+  </data>
+  <data name="listView4.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="listView4.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>633, 202</value>
+  </data>
+  <data name="columnHeader16.Text" xml:space="preserve">
+    <value>Logs</value>
+  </data>
+  <data name="btn_PVPService_Stop.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 28</value>
+  </data>
+  <data name="btn_PVPService_Stop.Text" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="btn_PVPService_Start.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>152, 28</value>
+  </data>
+  <data name="btn_PVPService_Start.Text" xml:space="preserve">
+    <value>Start PVP Service</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>1048, 569</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>A3 log Manager</value>
+  </data>
+</root>

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BackendManager" GeneratedClassName="ServerInfo">
+  <Profiles />
+  <Settings>
+    <Setting Name="Backend_MS_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Backend_MS_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8000</Value>
+    </Setting>
+    <Setting Name="Backend_ZS_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Backend_ZS_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8001</Value>
+    </Setting>
+    <Setting Name="MainServer_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="MainServer_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7789</Value>
+    </Setting>
+    <Setting Name="WSP_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1 </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
