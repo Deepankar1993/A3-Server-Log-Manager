@@ -57,625 +57,574 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;columnHeader5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblPlayerOnlineCount.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
-  <data name="txtLogView.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>3</value>
+  <data name="&gt;&gt;btn_AS_Service_Start.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
   </data>
   <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="listView2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 3</value>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>464, 14</value>
   </data>
-  <data name="&gt;&gt;lstServerLog.Type" xml:space="preserve">
+  <data name="&gt;&gt;columnHeader7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnZSGameLogServiceClose.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabASManager.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_PVPService_Start.Name" xml:space="preserve">
+    <value>btn_PVPService_Start</value>
+  </data>
+  <data name="&gt;&gt;txtASinterval.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listView2.Type" xml:space="preserve">
     <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lblServerListen.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 211</value>
   </data>
-  <data name="&gt;&gt;btnLoginlogServiceStart.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;btn_PVPService_Start.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="tabPage4.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnMSDisconnectListen.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="&gt;&gt;txtMSLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabMainServer.Parent" xml:space="preserve">
-    <value>tabASManager</value>
+  <data name="&gt;&gt;tabPVPAlerts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="lblMSLogServerStatus.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
+  <data name="btn_StopAnnouncementService.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 418</value>
   </data>
-  <data name="&gt;&gt;btnLoginlogServiceStart.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerManagerPage</value>
+  <data name="&gt;&gt;lblMSLogServerStatus.Parent" xml:space="preserve">
+    <value>tabMainServer</value>
   </data>
-  <data name="&gt;&gt;lstOnlinePlayer.Name" xml:space="preserve">
-    <value>lstOnlinePlayer</value>
+  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 28</value>
   </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="button4.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
+  <data name="tabControl2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>6, 21</value>
   </data>
   <data name="btn_reload_asMessages.Location" type="System.Drawing.Point, System.Drawing.Primitives">
     <value>589, 91</value>
   </data>
-  <data name="lblPlayerOnlineCount.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>149, 35</value>
+  <data name="&gt;&gt;OnlineLoglstMenu.Name" xml:space="preserve">
+    <value>OnlineLoglstMenu</value>
   </data>
-  <data name="lst_ALL_LOG.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>14</value>
+  <data name="&gt;&gt;tabCtrlOnlineLog.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerManagerPage</value>
   </data>
-  <data name="lstbox_PVP_Shout.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="button4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>564, 275</value>
+  </data>
+  <data name="&gt;&gt;btnAddAsMessage.Name" xml:space="preserve">
+    <value>btnAddAsMessage</value>
+  </data>
+  <data name="&gt;&gt;txtASinterval.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;btn_Start_AS_Service.Name" xml:space="preserve">
+    <value>btn_Start_AS_Service</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="tabPVPLogs.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tabPVPLogs.Parent" xml:space="preserve">
+    <value>tabControl2</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
+    <value>richTextBox1</value>
+  </data>
+  <data name="&gt;&gt;tabCtrlOnlineLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtLogView.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>14, 274</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerPage.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;columnHeader3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;columnHeader14.Name" xml:space="preserve">
+    <value>columnHeader14</value>
   </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
-    <value>7, 15</value>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;btnDisconnectMSLogServer.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="listView4.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;tabOnlinePlayerPage.Parent" xml:space="preserve">
-    <value>tabCtrlOnlineLog</value>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>124, 22</value>
   </data>
-  <data name="AS_Msg_List.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;btnMSLogServerClose.Name" xml:space="preserve">
-    <value>btnMSLogServerClose</value>
-  </data>
-  <data name="btnClearLoginLog.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;btnMSDisconnectListen.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pAccount.Name" xml:space="preserve">
-    <value>pAccount</value>
-  </data>
-  <data name="&gt;&gt;pName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txt_MsgData.Name" xml:space="preserve">
-    <value>txt_MsgData</value>
-  </data>
-  <data name="&gt;&gt;lblMSLogServerStatus.Name" xml:space="preserve">
-    <value>lblMSLogServerStatus</value>
-  </data>
-  <data name="&gt;&gt;btnDeleteASMessage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabASManager.Name" xml:space="preserve">
+  <data name="&gt;&gt;tab_AS_Manager.Parent" xml:space="preserve">
     <value>tabASManager</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerManagerPage.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lstServerLog.Name" xml:space="preserve">
-    <value>lstServerLog</value>
-  </data>
-  <data name="&gt;&gt;columnHeader2.Name" xml:space="preserve">
-    <value>columnHeader2</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnDisconnectListen.Name" xml:space="preserve">
     <value>btnDisconnectListen</value>
   </data>
-  <data name="tabOnlinePlayerManagerPage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>4, 24</value>
+  <data name="&gt;&gt;btn_PVPService_Stop.Name" xml:space="preserve">
+    <value>btn_PVPService_Stop</value>
   </data>
-  <data name="&gt;&gt;lstbox_PVP_Shout.Name" xml:space="preserve">
-    <value>lstbox_PVP_Shout</value>
+  <data name="&gt;&gt;btnMSStartListen.ZOrder" xml:space="preserve">
+    <value>9</value>
   </data>
-  <data name="btnLoginlogServiceClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>958, 85</value>
+  <data name="&gt;&gt;as_Send_Timer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;lstOnlinePlayer.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerPage</value>
-  </data>
-  <data name="&gt;&gt;listView1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtMSLog.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;btnStartListen.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnDisconnectListen.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btn_StopAnnouncementService.ZOrder" xml:space="preserve">
+  <data name="tabPage1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lst_ALL_LOG.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPVPAlerts.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnMSLogServerStart.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="txtLogView.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;pLoginDate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;OnlineLoglstMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lstbox_PVPLOG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>7, 23</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstbox_PVP_Shout.Parent" xml:space="preserve">
+    <value>tabPVPAlerts</value>
+  </data>
+  <data name="tabMainServer.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="txt_MsgData.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>16</value>
+  </data>
+  <data name="listBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 3</value>
+  </data>
+  <data name="btnSendMsg.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnMSDisconnectListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>958, 85</value>
+  </data>
+  <data name="&gt;&gt;btnClearLoginLog.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lstMSLog.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lvlInterval.Name" xml:space="preserve">
+    <value>lvlInterval</value>
+  </data>
+  <data name="&gt;&gt;btn_PVPService_Stop.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnUpdateAsMSG.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;lblPlayerOnlineCount.Name" xml:space="preserve">
+    <value>lblPlayerOnlineCount</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerLogPage.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tab_AS_Manager.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;btnMSDisconnectListen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnMSClientStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>802, 165</value>
+  </data>
+  <data name="&gt;&gt;btnDeleteASMessage.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;tabASManager.Name" xml:space="preserve">
+    <value>tabASManager</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstServerLog.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerLogPage</value>
+  </data>
+  <data name="tabOnlinePlayerManagerPage.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_AS_Service_Close.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
   <data name="btnMSStartListen.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="tabPVPAlerts.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
-  </data>
-  <data name="btnMSLogServerStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>508, 1</value>
-  </data>
-  <data name="&gt;&gt;pIP.Name" xml:space="preserve">
-    <value>pIP</value>
-  </data>
-  <data name="&gt;&gt;OnlineLoglstMenu.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pLoginDate.Type" xml:space="preserve">
+  <data name="&gt;&gt;pIP.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;OnlineLoglstMenu.Name" xml:space="preserve">
-    <value>OnlineLoglstMenu</value>
-  </data>
-  <data name="&gt;&gt;txtLogView.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerLogPage</value>
-  </data>
-  <data name="&gt;&gt;txtMSLog.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>6</value>
-  </data>
-  <data name="lvlInterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>580, 18</value>
-  </data>
-  <data name="&gt;&gt;btnLoginlogServiceStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;listBox1.Name" xml:space="preserve">
-    <value>listBox1</value>
-  </data>
-  <data name="&gt;&gt;txtASinterval.Name" xml:space="preserve">
-    <value>txtASinterval</value>
-  </data>
-  <data name="&gt;&gt;columnHeader8.Name" xml:space="preserve">
-    <value>columnHeader8</value>
-  </data>
-  <data name="btn_PVPService_Stop.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>18</value>
-  </data>
-  <data name="btnMSClientClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>961, 165</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnClearMSLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>642, 10</value>
-  </data>
-  <data name="&gt;&gt;columnHeader15.Name" xml:space="preserve">
-    <value>columnHeader15</value>
-  </data>
-  <data name="&gt;&gt;columnHeader11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnMSStartListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>800, 81</value>
-  </data>
-  <data name="&gt;&gt;listView4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
-    <value>toolStripMenuItem1</value>
-  </data>
-  <data name="&gt;&gt;lstOnlinePlayer.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceStart.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientClose.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceStart.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerManagerPage.Parent" xml:space="preserve">
-    <value>tabASManager</value>
-  </data>
-  <data name="tabPVPLogs.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
-  </data>
-  <data name="btnZSGameLogServiceStart.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>15</value>
-  </data>
-  <data name="btnMSDisconnectListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>958, 85</value>
-  </data>
-  <data name="&gt;&gt;listBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="txtLogView.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;txtLogView.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtASinterval.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;button4.Name" xml:space="preserve">
-    <value>button4</value>
-  </data>
-  <data name="btnMSLogServerStart.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tabControl2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblServerListen.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerManagerPage</value>
-  </data>
-  <data name="&gt;&gt;lstbox_PVP_Shout.Parent" xml:space="preserve">
-    <value>tabPVPAlerts</value>
-  </data>
-  <data name="&gt;&gt;tabASManager.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tab_AS_Manager.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tabPage4.Parent" xml:space="preserve">
-    <value>tabControl2</value>
-  </data>
-  <data name="&gt;&gt;listView3.Name" xml:space="preserve">
-    <value>listView3</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerStart.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tabPVPLogs.Name" xml:space="preserve">
-    <value>tabPVPLogs</value>
-  </data>
-  <data name="&gt;&gt;btn_StopAnnouncementService.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;as_Send_Timer.Name" xml:space="preserve">
-    <value>as_Send_Timer</value>
-  </data>
-  <data name="btn_AS_Service_Start.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>14</value>
-  </data>
-  <data name="tabControl2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
-    <value>tabControl1</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>MainFrm</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="richTextBox2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Start.Name" xml:space="preserve">
-    <value>btn_PVPService_Start</value>
-  </data>
-  <data name="&gt;&gt;btnLoginlogServiceClose.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerManagerPage</value>
-  </data>
-  <data name="&gt;&gt;tabPage4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pAccount.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_AS_Service_Start.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="txt_MsgData.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;btnSendMsg.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="richTextBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btnClearLoginLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_AS_Service_Close.Name" xml:space="preserve">
-    <value>btn_AS_Service_Close</value>
-  </data>
-  <data name="btnSendMsg.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>804, 190</value>
-  </data>
-  <data name="&gt;&gt;tabPVPAlerts.Parent" xml:space="preserve">
-    <value>tabControl2</value>
-  </data>
-  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 28</value>
-  </data>
-  <data name="&gt;&gt;richTextBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn_AS_Service_Close.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tabPVPLogs.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="txtLogView.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>14, 274</value>
-  </data>
-  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnLoginlogServiceStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>800, 81</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceStart.Name" xml:space="preserve">
-    <value>btnZSGameLogServiceStart</value>
-  </data>
-  <data name="&gt;&gt;lstMSLog.Name" xml:space="preserve">
-    <value>lstMSLog</value>
-  </data>
-  <data name="&gt;&gt;tabPVP.Name" xml:space="preserve">
-    <value>tabPVP</value>
-  </data>
-  <data name="&gt;&gt;colLogList.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;listView1.Name" xml:space="preserve">
-    <value>listView1</value>
-  </data>
-  <data name="listView2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>2</value>
-  </data>
-  <data name="tabOnlinePlayerPage.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnMSLogServerClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>691, 3</value>
-  </data>
-  <data name="&gt;&gt;btnUpdateAsMSG.Name" xml:space="preserve">
-    <value>btnUpdateAsMSG</value>
-  </data>
-  <data name="&gt;&gt;txt_MsgData.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;btnLoginlogServiceClose.Name" xml:space="preserve">
-    <value>btnLoginlogServiceClose</value>
-  </data>
-  <data name="&gt;&gt;btnAddAsMessage.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="AS_Msg_List.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 3</value>
-  </data>
-  <data name="&gt;&gt;btnClearLoginLog.Name" xml:space="preserve">
-    <value>btnClearLoginLog</value>
-  </data>
-  <data name="&gt;&gt;columnHeader13.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="listView1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>tabMainServer</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerPage.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnUpdateAsMSG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>213, 350</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceClose.Name" xml:space="preserve">
-    <value>btnZSGameLogServiceClose</value>
-  </data>
-  <data name="lblServerListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>41, 13</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>286, 321</value>
-  </data>
-  <data name="&gt;&gt;btnSetInterval.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;colLogList.Name" xml:space="preserve">
-    <value>colLogList</value>
-  </data>
-  <data name="&gt;&gt;btn_AS_Service_Close.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
   </data>
   <data name="txtMSLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
     <value>5, 216</value>
   </data>
-  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="tabPage4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
   </data>
-  <data name="&gt;&gt;pLoginTime.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;tabOnlinePlayerManagerPage.Parent" xml:space="preserve">
+    <value>tabASManager</value>
   </data>
-  <data name="&gt;&gt;button2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnClearMSLog.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabPage3.Name" xml:space="preserve">
     <value>tabPage3</value>
   </data>
-  <data name="&gt;&gt;lstMSLog.Parent" xml:space="preserve">
-    <value>tabPage3</value>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="btnMSDisconnectListen.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
-  </data>
-  <data name="listBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 3</value>
-  </data>
-  <data name="lstbox_PVPLOG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>7, 23</value>
-  </data>
-  <data name="&gt;&gt;btn_reload_asMessages.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabCtrlOnlineLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn_StopAnnouncementService.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
-  <data name="btnAddAsMessage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>303, 342</value>
-  </data>
-  <data name="&gt;&gt;columnHeader1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;listView2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnAddAsMessage.Type" xml:space="preserve">
+  <data name="&gt;&gt;btn_PVPService_Start.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabOnlinePlayerLogPage.Parent" xml:space="preserve">
     <value>tabCtrlOnlineLog</value>
   </data>
-  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="label4.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btnStartListen.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btnUpdateAsMSG.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabOnlinePlayerLogPage.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="tabPage4.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;columnHeader1.Name" xml:space="preserve">
-    <value>columnHeader1</value>
+  <data name="lstbox_PVPLOG.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;listView1.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;tabMainServer.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;btn_Start_AS_Service.Name" xml:space="preserve">
-    <value>btn_Start_AS_Service</value>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>705, 10</value>
   </data>
-  <data name="&gt;&gt;tabPVP.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;btn_PVPService_Stop.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;tabASManager.ZOrder" xml:space="preserve">
-    <value>11</value>
+  <data name="&gt;&gt;btnDisconnectMSLogServer.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;btnSetInterval.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
+  <data name="tabControl2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
   </data>
-  <data name="&gt;&gt;lstOnlinePlayer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="btn_AS_Service_Start.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>14</value>
   </data>
-  <data name="&gt;&gt;tabPVPAlerts.Type" xml:space="preserve">
+  <data name="&gt;&gt;tab_AS_Manager.Type" xml:space="preserve">
     <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;txtLogView.Name" xml:space="preserve">
-    <value>txtLogView</value>
+  <data name="&gt;&gt;btnDeleteASMessage.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;btn_reload_asMessages.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="lstOnlinePlayer.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 33</value>
-  </data>
-  <data name="btnDisconnectMSLogServer.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="btnClearLoginLog.TabIndex" type="System.Int32, System.Private.CoreLib">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;columnHeader15.Type" xml:space="preserve">
+  <data name="lblMSLogServerStatus.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnMSStartListen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;colLogList.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnMSStartListen.Name" xml:space="preserve">
-    <value>btnMSStartListen</value>
+  <data name="tabASManager.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
   </data>
-  <data name="btnClearLoginLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>305, 208</value>
+  <data name="&gt;&gt;columnHeader16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnStartListen.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="AS_Msg_List.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 3</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
     <value>10, 7</value>
   </data>
-  <data name="&gt;&gt;lstbox_PVPLOG.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="btn_reload_asMessages.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
   </data>
-  <data name="lblPlayerOnlineCount.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>11</value>
+  <data name="label3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
   </data>
-  <data name="&gt;&gt;columnHeader4.Type" xml:space="preserve">
+  <data name="&gt;&gt;txtLogView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;pName.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tabCtrlManager.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>7</value>
+  <data name="&gt;&gt;btnZSGameLogServiceStart.Name" xml:space="preserve">
+    <value>btnZSGameLogServiceStart</value>
   </data>
-  <data name="&gt;&gt;btnAddAsMessage.Name" xml:space="preserve">
-    <value>btnAddAsMessage</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;btnLoginlogServiceClose.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>803, 353</value>
   </data>
-  <data name="lstServerLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 31</value>
+  <data name="&gt;&gt;btnClearLoginLog.Name" xml:space="preserve">
+    <value>btnClearLoginLog</value>
+  </data>
+  <data name="btnMSLogServerClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>691, 3</value>
+  </data>
+  <data name="btn_Start_AS_Service.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>14</value>
+  </data>
+  <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
+  </data>
+  <data name="lblMSLogServerStatus.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>142, 7</value>
+  </data>
+  <data name="lblServerListen.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="btnZSGameLogServiceClose.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
+    <value>contextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;btn_Start_AS_Service.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lstServerLog.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tabCtrlOnlineLog.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;txtLogView.Name" xml:space="preserve">
+    <value>txtLogView</value>
+  </data>
+  <data name="&gt;&gt;btnDisconnectListen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_StopAnnouncementService.Name" xml:space="preserve">
+    <value>btn_StopAnnouncementService</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerStart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pAccount.Name" xml:space="preserve">
+    <value>pAccount</value>
+  </data>
+  <data name="&gt;&gt;pPing.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader4.Name" xml:space="preserve">
+    <value>columnHeader4</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>19, 34</value>
+  </data>
+  <data name="&gt;&gt;columnHeader9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabMainServer.Parent" xml:space="preserve">
+    <value>tabASManager</value>
+  </data>
+  <data name="&gt;&gt;tabCtrlManager.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientStart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;txt_MsgData.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabOnlinePlayerPage.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>7, 15</value>
+  </data>
+  <data name="&gt;&gt;pIP.Name" xml:space="preserve">
+    <value>pIP</value>
+  </data>
+  <data name="lstOnlinePlayer.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;richTextBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerStart.Name" xml:space="preserve">
+    <value>btnMSLogServerStart</value>
+  </data>
+  <data name="richTextBox2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pCount.Name" xml:space="preserve">
+    <value>pCount</value>
+  </data>
+  <data name="&gt;&gt;listView4.Name" xml:space="preserve">
+    <value>listView4</value>
+  </data>
+  <data name="btn_AS_Service_Close.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 418</value>
+  </data>
+  <data name="tabMainServer.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="btnSetInterval.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;tabControl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_AS_Service_Start.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 12</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;columnHeader16.Name" xml:space="preserve">
+    <value>columnHeader16</value>
+  </data>
+  <data name="txtLogView.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="btn_AS_Service_Close.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientStart.Name" xml:space="preserve">
+    <value>btnMSClientStart</value>
+  </data>
+  <data name="&gt;&gt;lstServerLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnUpdateAsMSG.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerPage.Parent" xml:space="preserve">
+    <value>tabCtrlOnlineLog</value>
+  </data>
+  <data name="&gt;&gt;txtMSLog.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;lstMSLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblServerListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>41, 13</value>
+  </data>
+  <data name="&gt;&gt;lstOnlinePlayer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnZSGameLogServiceStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceStart.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabMainServer.Name" xml:space="preserve">
+    <value>tabMainServer</value>
+  </data>
+  <data name="btnLoginlogServiceClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>958, 85</value>
+  </data>
+  <data name="&gt;&gt;btn_AS_Service_Close.Name" xml:space="preserve">
+    <value>btn_AS_Service_Close</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientClose.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lvlInterval.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="btn_PVPService_Start.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>800, 203</value>
+  </data>
+  <data name="&gt;&gt;btn_StopAnnouncementService.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn_PVPService_Stop.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>961, 203</value>
+  </data>
+  <data name="&gt;&gt;btnMSStartListen.Name" xml:space="preserve">
+    <value>btnMSStartListen</value>
+  </data>
+  <data name="&gt;&gt;tabCtrlManager.Name" xml:space="preserve">
+    <value>tabCtrlManager</value>
+  </data>
+  <data name="&gt;&gt;txtLogView.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerLogPage</value>
+  </data>
+  <data name="lstbox_PVP_Shout.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>15, 3</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -683,524 +632,560 @@
   <data name="&gt;&gt;btn_AS_Service_Start.Name" xml:space="preserve">
     <value>btn_AS_Service_Start</value>
   </data>
-  <data name="&gt;&gt;columnHeader12.Name" xml:space="preserve">
-    <value>columnHeader12</value>
-  </data>
-  <data name="&gt;&gt;btnUpdateAsMSG.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btn_StopAnnouncementService.Name" xml:space="preserve">
-    <value>btn_StopAnnouncementService</value>
-  </data>
-  <data name="&gt;&gt;btnSetInterval.Name" xml:space="preserve">
-    <value>btnSetInterval</value>
-  </data>
-  <data name="btnUpdateAsMSG.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>19</value>
-  </data>
-  <data name="button1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>75, 23</value>
-  </data>
-  <data name="txtMSLog.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>3</value>
-  </data>
-  <data name="listBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;txtASinterval.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_Start_AS_Service.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;btnClearLoginLog.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerLogPage</value>
-  </data>
-  <data name="&gt;&gt;pPing.Name" xml:space="preserve">
-    <value>pPing</value>
-  </data>
-  <data name="tabMainServer.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;columnHeader7.Name" xml:space="preserve">
-    <value>columnHeader7</value>
-  </data>
-  <data name="tabPage4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerManagerPage.Name" xml:space="preserve">
-    <value>tabOnlinePlayerManagerPage</value>
-  </data>
-  <data name="btn_Start_AS_Service.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>589, 12</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientClose.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnDisconnectListen.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnClearMSLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="txt_MsgData.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>78, 314</value>
-  </data>
-  <data name="tabPVP.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>4, 24</value>
-  </data>
-  <data name="&gt;&gt;lstbox_PVPLOG.Parent" xml:space="preserve">
-    <value>tabPVPLogs</value>
-  </data>
-  <data name="&gt;&gt;columnHeader4.Name" xml:space="preserve">
-    <value>columnHeader4</value>
-  </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
-  </data>
-  <data name="&gt;&gt;button3.Name" xml:space="preserve">
-    <value>button3</value>
-  </data>
-  <data name="&gt;&gt;columnHeader13.Name" xml:space="preserve">
-    <value>columnHeader13</value>
-  </data>
-  <data name="&gt;&gt;pLoginDate.Name" xml:space="preserve">
-    <value>pLoginDate</value>
-  </data>
-  <data name="&gt;&gt;AS_Msg_List.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="txtMSLog.Text" xml:space="preserve">
+    <value />
   </data>
   <data name="&gt;&gt;tabOnlinePlayerPage.Name" xml:space="preserve">
     <value>tabOnlinePlayerPage</value>
   </data>
-  <data name="&gt;&gt;tabPage4.Name" xml:space="preserve">
-    <value>tabPage4</value>
+  <data name="&gt;&gt;lstbox_PVP_Shout.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnLoginlogServiceClose.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnSendMsg.Name" xml:space="preserve">
-    <value>btnSendMsg</value>
-  </data>
-  <data name="&gt;&gt;btnDeleteASMessage.Name" xml:space="preserve">
-    <value>btnDeleteASMessage</value>
-  </data>
-  <data name="btn_PVPService_Start.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>800, 203</value>
-  </data>
-  <data name="&gt;&gt;btnStartListen.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;as_Send_Timer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabControl2.Parent" xml:space="preserve">
-    <value>tabPVP</value>
-  </data>
-  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>4, 24</value>
-  </data>
-  <data name="&gt;&gt;lblPlayerOnlineCount.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>15, 8</value>
-  </data>
-  <data name="tabOnlinePlayerManagerPage.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Stop.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btn_AS_Service_Start.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lstbox_PVPLOG.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
-  </data>
-  <data name="button2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>75, 23</value>
-  </data>
-  <data name="&gt;&gt;btnAddAsMessage.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
-    <value>contextMenuStrip1</value>
-  </data>
-  <data name="&gt;&gt;tab_AS_Manager.Parent" xml:space="preserve">
-    <value>tabASManager</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerLogPage.Name" xml:space="preserve">
-    <value>tabOnlinePlayerLogPage</value>
-  </data>
-  <data name="&gt;&gt;btn_reload_asMessages.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btnMSDisconnectListen.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabASManager.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;listView1.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerPage</value>
-  </data>
-  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
-    <value>tabMainServer</value>
-  </data>
-  <data name="tabOnlinePlayerLogPage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Stop.Name" xml:space="preserve">
-    <value>btn_PVPService_Stop</value>
-  </data>
-  <data name="&gt;&gt;btn_AS_Service_Close.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>124, 22</value>
-  </data>
-  <data name="&gt;&gt;lstbox_PVPLOG.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="button3.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;btnDisconnectMSLogServer.Name" xml:space="preserve">
-    <value>btnDisconnectMSLogServer</value>
-  </data>
-  <data name="label3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>803, 353</value>
-  </data>
-  <data name="tabControl2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>6, 21</value>
-  </data>
-  <data name="&gt;&gt;tabPVPAlerts.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerClose.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnSendMsg.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblMSLogServerStatus.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerLogPage.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lvlInterval.Name" xml:space="preserve">
-    <value>lvlInterval</value>
-  </data>
-  <data name="tabCtrlOnlineLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 3</value>
-  </data>
-  <data name="&gt;&gt;tabPVP.Parent" xml:space="preserve">
-    <value>tabASManager</value>
-  </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="listView4.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>2</value>
-  </data>
-  <data name="lstMSLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>5, 8</value>
-  </data>
-  <data name="&gt;&gt;columnHeader10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPVPAlerts.Name" xml:space="preserve">
-    <value>tabPVPAlerts</value>
-  </data>
-  <data name="&gt;&gt;lstServerLog.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerLogPage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnSetInterval.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;tabPVP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerClose.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;columnHeader14.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblServerListen.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="btnZSGameLogServiceStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>800, 160</value>
-  </data>
-  <data name="&gt;&gt;pCount.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tab_AS_Manager.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pName.Name" xml:space="preserve">
-    <value>pName</value>
-  </data>
-  <data name="&gt;&gt;columnHeader6.Name" xml:space="preserve">
-    <value>columnHeader6</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceClose.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;lblMSLogServerStatus.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnDisconnectListen.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
-  </data>
-  <data name="btnMSClientStart.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>17</value>
-  </data>
-  <data name="&gt;&gt;lblPlayerOnlineCount.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="txtASinterval.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerStart.Name" xml:space="preserve">
-    <value>btnMSLogServerStart</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pCount.Name" xml:space="preserve">
-    <value>pCount</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerPage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtMSLog.Name" xml:space="preserve">
-    <value>txtMSLog</value>
-  </data>
-  <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>MainFrm</value>
-  </data>
-  <data name="btn_AS_Service_Start.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>589, 12</value>
-  </data>
-  <data name="&gt;&gt;AS_Msg_List.Name" xml:space="preserve">
-    <value>AS_Msg_List</value>
-  </data>
-  <data name="tabASManager.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 61</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientStart.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="&gt;&gt;AS_Msg_List.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="&gt;&gt;lblMSLogServerStatus.Parent" xml:space="preserve">
+  <data name="txt_MsgData.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>78, 314</value>
+  </data>
+  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="tabOnlinePlayerLogPage.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="tabOnlinePlayerManagerPage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
+  </data>
+  <data name="&gt;&gt;btn_Start_AS_Service.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lvlInterval.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabASManager.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="tabPVP.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
     <value>tabMainServer</value>
   </data>
   <data name="&gt;&gt;txtLogView.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;btnSetInterval.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="&gt;&gt;lstOnlinePlayer.Name" xml:space="preserve">
+    <value>lstOnlinePlayer</value>
   </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;tabPVPLogs.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;columnHeader11.Name" xml:space="preserve">
-    <value>columnHeader11</value>
-  </data>
-  <data name="&gt;&gt;btn_Start_AS_Service.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="btnClearMSLog.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;listView2.Name" xml:space="preserve">
-    <value>listView2</value>
-  </data>
-  <data name="tabOnlinePlayerPage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
-  </data>
-  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
-  </data>
-  <data name="btnSendMsg.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;tabASManager.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
-    <value>tabControl1</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
-    <value>richTextBox1</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;AS_Msg_List.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;btnMSDisconnectListen.Name" xml:space="preserve">
-    <value>btnMSDisconnectListen</value>
-  </data>
-  <data name="&gt;&gt;lstbox_PVP_Shout.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnMSStartListen.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btnDeleteASMessage.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientStart.Name" xml:space="preserve">
-    <value>btnMSClientStart</value>
-  </data>
-  <data name="listView1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 33</value>
-  </data>
-  <data name="&gt;&gt;lstServerLog.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerLogPage</value>
-  </data>
-  <data name="&gt;&gt;btn_reload_asMessages.Name" xml:space="preserve">
-    <value>btn_reload_asMessages</value>
-  </data>
-  <data name="&gt;&gt;button4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage4.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="tabCtrlOnlineLog.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;lvlInterval.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="lblMSLogServerStatus.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>142, 7</value>
-  </data>
-  <data name="&gt;&gt;pIP.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn_PVPService_Stop.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>961, 203</value>
-  </data>
-  <data name="&gt;&gt;tabPVPLogs.Parent" xml:space="preserve">
-    <value>tabControl2</value>
-  </data>
-  <data name="button2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;tabCtrlOnlineLog.Name" xml:space="preserve">
-    <value>tabCtrlOnlineLog</value>
-  </data>
-  <data name="&gt;&gt;columnHeader10.Name" xml:space="preserve">
-    <value>columnHeader10</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Stop.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnStartListen.Name" xml:space="preserve">
-    <value>btnStartListen</value>
-  </data>
-  <data name="btnDeleteASMessage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>303, 375</value>
-  </data>
-  <data name="&gt;&gt;columnHeader9.Name" xml:space="preserve">
-    <value>columnHeader9</value>
-  </data>
-  <data name="lstServerLog.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;txtASinterval.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="btnDeleteASMessage.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>18</value>
-  </data>
-  <data name="btn_AS_Service_Close.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>589, 418</value>
-  </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>464, 14</value>
-  </data>
-  <data name="lst_ALL_LOG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>804, 372</value>
-  </data>
-  <data name="&gt;&gt;tab_AS_Manager.Name" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;button4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnLoginlogServiceStart.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
-  </data>
-  <data name="btnDisconnectListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>958, 85</value>
-  </data>
-  <data name="btn_Start_AS_Service.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>14</value>
-  </data>
-  <data name="btnMSClientStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>802, 165</value>
-  </data>
-  <data name="btnMSClientClose.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>18</value>
-  </data>
-  <data name="&gt;&gt;tabCtrlOnlineLog.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerManagerPage</value>
-  </data>
-  <data name="&gt;&gt;columnHeader16.Name" xml:space="preserve">
-    <value>columnHeader16</value>
-  </data>
-  <data name="&gt;&gt;tabMainServer.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lst_ALL_LOG.Type" xml:space="preserve">
+  <data name="&gt;&gt;lstbox_PVPLOG.Type" xml:space="preserve">
     <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabMainServer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lblMSLogServerStatus.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="btn_reload_asMessages.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>13</value>
+  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>4, 24</value>
   </data>
   <data name="&gt;&gt;columnHeader8.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnLoginlogServiceStart.Name" xml:space="preserve">
-    <value>btnLoginlogServiceStart</value>
+  <data name="&gt;&gt;tabCtrlManager.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
-  <data name="button2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>705, 10</value>
+  <data name="&gt;&gt;btnLoginlogServiceClose.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnSetInterval.Name" xml:space="preserve">
+    <value>btnSetInterval</value>
+  </data>
+  <data name="richTextBox2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 211</value>
+  </data>
+  <data name="&gt;&gt;lst_ALL_LOG.Name" xml:space="preserve">
+    <value>lst_ALL_LOG</value>
+  </data>
+  <data name="&gt;&gt;lblMSLogServerStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn_Start_AS_Service.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerClose.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;button4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader10.Name" xml:space="preserve">
+    <value>columnHeader10</value>
+  </data>
+  <data name="btnMSLogServerClose.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn_PVPService_Start.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;columnHeader2.Name" xml:space="preserve">
+    <value>columnHeader2</value>
+  </data>
+  <data name="&gt;&gt;btnDeleteASMessage.Name" xml:space="preserve">
+    <value>btnDeleteASMessage</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientClose.Name" xml:space="preserve">
+    <value>btnMSClientClose</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btn_AS_Service_Close.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientClose.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnClearLoginLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>305, 208</value>
+  </data>
+  <data name="lstMSLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>5, 8</value>
+  </data>
+  <data name="&gt;&gt;columnHeader5.Name" xml:space="preserve">
+    <value>columnHeader5</value>
+  </data>
+  <data name="lstServerLog.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="btnDisconnectMSLogServer.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>14, 239</value>
+  </data>
+  <data name="listView3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>5</value>
+  </data>
+  <data name="btn_Start_AS_Service.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 12</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lstServerLog.Name" xml:space="preserve">
+    <value>lstServerLog</value>
+  </data>
+  <data name="lstServerLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 31</value>
+  </data>
+  <data name="&gt;&gt;btnSetInterval.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;columnHeader3.Name" xml:space="preserve">
+    <value>columnHeader3</value>
+  </data>
+  <data name="btnAddAsMessage.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>17</value>
+  </data>
+  <data name="btnMSClientClose.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerClose.Name" xml:space="preserve">
+    <value>btnMSLogServerClose</value>
+  </data>
+  <data name="tabOnlinePlayerLogPage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
+  </data>
+  <data name="btnAddAsMessage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>303, 342</value>
+  </data>
+  <data name="tabPage2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="button4.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPVPLogs.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
+  </data>
+  <data name="&gt;&gt;btnDisconnectMSLogServer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPVP.Name" xml:space="preserve">
+    <value>tabPVP</value>
+  </data>
+  <data name="&gt;&gt;columnHeader1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnZSGameLogServiceStart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnZSGameLogServiceStart.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;richTextBox2.Name" xml:space="preserve">
+    <value>richTextBox2</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnDeleteASMessage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
+    <value>toolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;columnHeader13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pAccount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtASinterval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnClearLoginLog.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerLogPage</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="tabCtrlOnlineLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnMSClientClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>961, 165</value>
+  </data>
+  <data name="&gt;&gt;lvlInterval.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
+    <value>tabControl2</value>
+  </data>
+  <data name="&gt;&gt;tabCtrlManager.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listView2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;btn_reload_asMessages.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStartListen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;txtMSLog.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lstbox_PVP_Shout.Name" xml:space="preserve">
+    <value>lstbox_PVP_Shout</value>
+  </data>
+  <data name="btn_PVPService_Start.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;tabControl2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblServerListen.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tabPVP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDisconnectListen.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnUpdateAsMSG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>213, 350</value>
+  </data>
+  <data name="lblPlayerOnlineCount.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>149, 35</value>
+  </data>
+  <data name="&gt;&gt;btn_StopAnnouncementService.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;as_Send_Timer.Name" xml:space="preserve">
+    <value>as_Send_Timer</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;colLogList.Name" xml:space="preserve">
+    <value>colLogList</value>
+  </data>
+  <data name="&gt;&gt;tabASManager.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listView1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lstbox_PVPLOG.Parent" xml:space="preserve">
+    <value>tabPVPLogs</value>
+  </data>
+  <data name="&gt;&gt;tabPVP.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;columnHeader1.Name" xml:space="preserve">
+    <value>columnHeader1</value>
+  </data>
+  <data name="&gt;&gt;btnAddAsMessage.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="listView3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 33</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;btnStartListen.Name" xml:space="preserve">
+    <value>btnStartListen</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lstbox_PVP_Shout.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnZSGameLogServiceClose.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnDeleteASMessage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>303, 375</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceStart.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerManagerPage</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="txtASinterval.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerManagerPage</value>
+  </data>
+  <data name="&gt;&gt;listView3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader12.Name" xml:space="preserve">
+    <value>columnHeader12</value>
+  </data>
+  <data name="&gt;&gt;tabPVP.Parent" xml:space="preserve">
+    <value>tabASManager</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
+    <value>tabMainServer</value>
+  </data>
+  <data name="&gt;&gt;btnDisconnectMSLogServer.Name" xml:space="preserve">
+    <value>btnDisconnectMSLogServer</value>
+  </data>
+  <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnUpdateAsMSG.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnClearMSLog.Name" xml:space="preserve">
+    <value>btnClearMSLog</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerManagerPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnUpdateAsMSG.Name" xml:space="preserve">
+    <value>btnUpdateAsMSG</value>
+  </data>
+  <data name="&gt;&gt;btnStartListen.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;pPing.Name" xml:space="preserve">
+    <value>pPing</value>
+  </data>
+  <data name="btnMSDisconnectListen.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="btnDeleteASMessage.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>18</value>
+  </data>
+  <data name="tabCtrlManager.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 7</value>
+  </data>
+  <data name="btnSendMsg.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>804, 190</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;pName.Name" xml:space="preserve">
+    <value>pName</value>
+  </data>
+  <data name="btnLoginlogServiceClose.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pLoginTime.Name" xml:space="preserve">
+    <value>pLoginTime</value>
+  </data>
+  <data name="&gt;&gt;btn_PVPService_Stop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerManagerPage.Name" xml:space="preserve">
+    <value>tabOnlinePlayerManagerPage</value>
+  </data>
+  <data name="tabCtrlManager.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;tabPage4.Name" xml:space="preserve">
+    <value>tabPage4</value>
+  </data>
+  <data name="&gt;&gt;listView1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnDisconnectMSLogServer.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;AS_Msg_List.Name" xml:space="preserve">
+    <value>AS_Msg_List</value>
+  </data>
+  <data name="&gt;&gt;columnHeader7.Name" xml:space="preserve">
+    <value>columnHeader7</value>
+  </data>
+  <data name="&gt;&gt;columnHeader15.Name" xml:space="preserve">
+    <value>columnHeader15</value>
+  </data>
+  <data name="&gt;&gt;lstbox_PVPLOG.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabPVPLogs.Name" xml:space="preserve">
+    <value>tabPVPLogs</value>
+  </data>
+  <data name="btnClearMSLog.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>642, 10</value>
+  </data>
+  <data name="&gt;&gt;columnHeader3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtMSLog.Name" xml:space="preserve">
+    <value>txtMSLog</value>
+  </data>
+  <data name="&gt;&gt;pLoginDate.Name" xml:space="preserve">
+    <value>pLoginDate</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerClose.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AS_Msg_List.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnMSStartListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>800, 81</value>
+  </data>
+  <data name="lvlInterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>580, 18</value>
+  </data>
+  <data name="&gt;&gt;tabPVPLogs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnClearMSLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listView1.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerPage</value>
+  </data>
+  <data name="&gt;&gt;columnHeader8.Name" xml:space="preserve">
+    <value>columnHeader8</value>
+  </data>
+  <data name="&gt;&gt;tabControl2.Parent" xml:space="preserve">
+    <value>tabPVP</value>
+  </data>
+  <data name="&gt;&gt;lblServerListen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnDisconnectListen.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerLogPage.Name" xml:space="preserve">
+    <value>tabOnlinePlayerLogPage</value>
+  </data>
+  <data name="&gt;&gt;btn_StopAnnouncementService.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;lstMSLog.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txt_MsgData.Name" xml:space="preserve">
+    <value>txt_MsgData</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPage3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceClose.Name" xml:space="preserve">
+    <value>btnLoginlogServiceClose</value>
+  </data>
+  <data name="&gt;&gt;btnStartListen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPVPAlerts.Name" xml:space="preserve">
+    <value>tabPVPAlerts</value>
+  </data>
+  <data name="btnZSGameLogServiceStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>800, 160</value>
+  </data>
+  <data name="AS_Msg_List.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="lstOnlinePlayer.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 33</value>
   </data>
   <data name="lstServerLog.Items" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
@@ -1219,374 +1204,389 @@
         c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAwAAAAMAAAAL
 </value>
   </data>
-  <data name="&gt;&gt;btn_PVPService_Start.Parent" xml:space="preserve">
+  <data name="&gt;&gt;columnHeader11.Name" xml:space="preserve">
+    <value>columnHeader11</value>
+  </data>
+  <data name="&gt;&gt;tabPVPAlerts.Parent" xml:space="preserve">
+    <value>tabControl2</value>
+  </data>
+  <data name="btnSetInterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>589, 53</value>
+  </data>
+  <data name="&gt;&gt;lst_ALL_LOG.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;tabControl2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnClearLoginLog.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnZSGameLogServiceClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>961, 162</value>
-  </data>
-  <data name="tabMainServer.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>4, 24</value>
-  </data>
-  <data name="&gt;&gt;pPing.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;listView4.Name" xml:space="preserve">
-    <value>listView4</value>
-  </data>
-  <data name="&gt;&gt;lst_ALL_LOG.Name" xml:space="preserve">
-    <value>lst_ALL_LOG</value>
-  </data>
-  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerClose.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;txtMSLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn_AS_Service_Close.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;btnMSStartListen.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;columnHeader6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPage3.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
-  </data>
-  <data name="button1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
+  <data name="txtMSLog.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
   </data>
   <data name="&gt;&gt;columnHeader12.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;lblServerListen.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pLoginTime.Name" xml:space="preserve">
-    <value>pLoginTime</value>
-  </data>
-  <data name="&gt;&gt;lst_ALL_LOG.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Stop.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="tabControl1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>7</value>
-  </data>
-  <data name="btnStartListen.TabIndex" type="System.Int32, System.Private.CoreLib">
+  <data name="&gt;&gt;tab_AS_Manager.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;btnClearMSLog.Name" xml:space="preserve">
-    <value>btnClearMSLog</value>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>876, 223</value>
   </data>
-  <data name="&gt;&gt;lvlInterval.ZOrder" xml:space="preserve">
-    <value>8</value>
+  <data name="tabPVPAlerts.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
   </data>
-  <data name="&gt;&gt;tabCtrlManager.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;tabPage4.Parent" xml:space="preserve">
+    <value>tabControl2</value>
+  </data>
+  <data name="tab_AS_Manager.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>15, 8</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceClose.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lvlInterval.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;btnMSDisconnectListen.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="&gt;&gt;listView3.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="&gt;&gt;lstbox_PVP_Shout.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pCount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabASManager.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 61</value>
+  </data>
+  <data name="listView2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lblPlayerOnlineCount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstOnlinePlayer.Type" xml:space="preserve">
     <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tabCtrlManager.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 7</value>
+  <data name="&gt;&gt;tabControl2.Name" xml:space="preserve">
+    <value>tabControl2</value>
   </data>
-  <data name="button4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>564, 275</value>
+  <data name="&gt;&gt;btn_AS_Service_Close.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
   </data>
-  <data name="btnZSGameLogServiceClose.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>16</value>
+  <data name="&gt;&gt;btnClearLoginLog.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnAddAsMessage.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>17</value>
+  <data name="txtASinterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>684, 15</value>
   </data>
-  <data name="btnStartListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 31</value>
+  <data name="&gt;&gt;btnZSGameLogServiceClose.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;lstMSLog.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;btnMSLogServerStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;columnHeader7.Type" xml:space="preserve">
+  <data name="&gt;&gt;tabMainServer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader5.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnDisconnectMSLogServer.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabCtrlManager.Name" xml:space="preserve">
-    <value>tabCtrlManager</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>19, 34</value>
-  </data>
-  <data name="button3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>876, 223</value>
-  </data>
-  <data name="&gt;&gt;columnHeader3.Name" xml:space="preserve">
-    <value>columnHeader3</value>
-  </data>
-  <data name="richTextBox2.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 211</value>
-  </data>
-  <data name="btnZSGameLogServiceClose.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>75, 23</value>
-  </data>
-  <data name="&gt;&gt;tabCtrlManager.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="listView4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 3</value>
-  </data>
-  <data name="&gt;&gt;btnUpdateAsMSG.Parent" xml:space="preserve">
-    <value>tab_AS_Manager</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>tabOnlinePlayerManagerPage</value>
-  </data>
-  <data name="&gt;&gt;btn_StopAnnouncementService.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPVPAlerts.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
-    <value>tabControl2</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.Name" xml:space="preserve">
+  <data name="&gt;&gt;btnClearMSLog.Parent" xml:space="preserve">
     <value>tabPage3</value>
   </data>
-  <data name="&gt;&gt;btn_Start_AS_Service.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lstbox_PVPLOG.Name" xml:space="preserve">
-    <value>lstbox_PVPLOG</value>
-  </data>
-  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;lstbox_PVP_Shout.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnMSStartListen.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button4.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnDisconnectMSLogServer.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>14, 239</value>
-  </data>
-  <data name="&gt;&gt;columnHeader16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lst_ALL_LOG.Parent" xml:space="preserve">
+  <data name="&gt;&gt;btnSendMsg.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>6</value>
   </data>
-  <data name="txtASinterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>684, 15</value>
-  </data>
-  <data name="&gt;&gt;columnHeader5.Name" xml:space="preserve">
-    <value>columnHeader5</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientClose.Name" xml:space="preserve">
-    <value>btnMSClientClose</value>
-  </data>
-  <data name="&gt;&gt;listBox1.Parent" xml:space="preserve">
-    <value>tabPVPLogs</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Start.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btn_StopAnnouncementService.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>589, 418</value>
-  </data>
-  <data name="&gt;&gt;lvlInterval.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lstbox_PVP_Shout.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>15, 3</value>
-  </data>
-  <data name="listView3.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;button2.Name" xml:space="preserve">
-    <value>button2</value>
-  </data>
-  <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
-    <value>tabControl1</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;btnDisconnectMSLogServer.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;btnMSLogServerStart.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="richTextBox2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 211</value>
-  </data>
-  <data name="&gt;&gt;txt_MsgData.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnDisconnectListen.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="listView3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>3, 33</value>
-  </data>
-  <data name="tab_AS_Manager.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>4, 24</value>
-  </data>
-  <data name="&gt;&gt;btnDeleteASMessage.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="lstOnlinePlayer.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;btnLoginlogServiceClose.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="txtMSLog.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;AS_Msg_List.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="tab_AS_Manager.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>2</value>
-  </data>
-  <data name="lstMSLog.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btn_PVPService_Start.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPVP.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;lblServerListen.Name" xml:space="preserve">
-    <value>lblServerListen</value>
-  </data>
-  <data name="&gt;&gt;columnHeader2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabMainServer.Name" xml:space="preserve">
-    <value>tabMainServer</value>
-  </data>
-  <data name="&gt;&gt;tabOnlinePlayerManagerPage.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="button3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>75, 23</value>
-  </data>
-  <data name="&gt;&gt;btnZSGameLogServiceClose.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnMSClientStart.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="label3.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;tabCtrlManager.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnSetInterval.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>589, 53</value>
-  </data>
-  <data name="&gt;&gt;lstMSLog.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;lstMSLog.Name" xml:space="preserve">
+    <value>lstMSLog</value>
   </data>
   <data name="&gt;&gt;btnClearMSLog.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="tabPage2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>1</value>
+  <data name="&gt;&gt;btn_reload_asMessages.Name" xml:space="preserve">
+    <value>btn_reload_asMessages</value>
   </data>
-  <data name="btn_PVPService_Start.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>17</value>
+  <data name="&gt;&gt;listView4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="tabPage1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>0</value>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>75, 23</value>
   </data>
-  <data name="lvlInterval.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>2</value>
+  <data name="&gt;&gt;lblServerListen.Name" xml:space="preserve">
+    <value>lblServerListen</value>
   </data>
-  <data name="&gt;&gt;columnHeader9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnMSLogServerClose.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>4</value>
+  <data name="&gt;&gt;btnDisconnectMSLogServer.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="&gt;&gt;btnSendMsg.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="&gt;&gt;richTextBox2.Name" xml:space="preserve">
-    <value>richTextBox2</value>
+  <data name="&gt;&gt;columnHeader10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btn_AS_Service_Start.Parent" xml:space="preserve">
+  <data name="tabPVP.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;listView3.Name" xml:space="preserve">
+    <value>listView3</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerLogPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lstbox_PVPLOG.Name" xml:space="preserve">
+    <value>lstbox_PVPLOG</value>
+  </data>
+  <data name="&gt;&gt;btn_reload_asMessages.Parent" xml:space="preserve">
     <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;btnAddAsMessage.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Parent" xml:space="preserve">
+    <value>tabPVPLogs</value>
+  </data>
+  <data name="listView1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 33</value>
+  </data>
+  <data name="&gt;&gt;tab_AS_Manager.Name" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listView4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceClose.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerManagerPage</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerClose.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnMSLogServerStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>508, 1</value>
+  </data>
+  <data name="btn_StopAnnouncementService.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;tabCtrlOnlineLog.Name" xml:space="preserve">
+    <value>tabCtrlOnlineLog</value>
+  </data>
+  <data name="&gt;&gt;btnMSLogServerStart.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lst_ALL_LOG.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>804, 372</value>
+  </data>
+  <data name="tabOnlinePlayerPage.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>27, 4</value>
   </data>
   <data name="&gt;&gt;tabCtrlOnlineLog.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;txt_MsgData.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;columnHeader13.Name" xml:space="preserve">
+    <value>columnHeader13</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientStart.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="tabPVPLogs.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>27, 4</value>
+  <data name="&gt;&gt;listBox1.Name" xml:space="preserve">
+    <value>listBox1</value>
   </data>
-  <data name="&gt;&gt;lblPlayerOnlineCount.Name" xml:space="preserve">
-    <value>lblPlayerOnlineCount</value>
+  <data name="btn_PVPService_Stop.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>18</value>
   </data>
-  <data name="&gt;&gt;tabControl2.Name" xml:space="preserve">
-    <value>tabControl2</value>
+  <data name="btnZSGameLogServiceStart.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>15</value>
   </data>
-  <data name="&gt;&gt;btnZSGameLogServiceClose.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="btnLoginlogServiceStart.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;columnHeader14.Name" xml:space="preserve">
-    <value>columnHeader14</value>
+  <data name="&gt;&gt;btnMSStartListen.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;btnDisconnectListen.Type" xml:space="preserve">
+  <data name="&gt;&gt;lstOnlinePlayer.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerPage</value>
+  </data>
+  <data name="btnZSGameLogServiceClose.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;btnLoginlogServiceStart.Name" xml:space="preserve">
+    <value>btnLoginlogServiceStart</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>286, 321</value>
+  </data>
+  <data name="&gt;&gt;lstMSLog.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;btnSetInterval.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnMSClientClose.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;columnHeader9.Name" xml:space="preserve">
+    <value>columnHeader9</value>
+  </data>
+  <data name="&gt;&gt;txtASinterval.Name" xml:space="preserve">
+    <value>txtASinterval</value>
+  </data>
+  <data name="&gt;&gt;columnHeader6.Name" xml:space="preserve">
+    <value>columnHeader6</value>
+  </data>
+  <data name="&gt;&gt;listView2.Name" xml:space="preserve">
+    <value>listView2</value>
+  </data>
+  <data name="&gt;&gt;lst_ALL_LOG.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnMSDisconnectListen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabPVPLogs.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainFrm</value>
+  </data>
+  <data name="&gt;&gt;txt_MsgData.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;btn_reload_asMessages.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lblServerListen.Parent" xml:space="preserve">
+    <value>tabOnlinePlayerManagerPage</value>
+  </data>
+  <data name="&gt;&gt;txt_MsgData.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>MainFrm</value>
+  </data>
+  <data name="tabControl1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn_AS_Service_Start.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnClearMSLog.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>4</value>
+  </data>
+  <data name="btnZSGameLogServiceClose.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>961, 162</value>
+  </data>
+  <data name="btnLoginlogServiceStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>800, 81</value>
+  </data>
+  <data name="lst_ALL_LOG.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;lblPlayerOnlineCount.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblPlayerOnlineCount.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;button4.Name" xml:space="preserve">
+    <value>button4</value>
+  </data>
+  <data name="&gt;&gt;btnMSDisconnectListen.Name" xml:space="preserve">
+    <value>btnMSDisconnectListen</value>
+  </data>
+  <data name="&gt;&gt;btnZSGameLogServiceClose.Name" xml:space="preserve">
+    <value>btnZSGameLogServiceClose</value>
+  </data>
+  <data name="&gt;&gt;pLoginTime.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;columnHeader2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMSClientClose.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSendMsg.Name" xml:space="preserve">
+    <value>btnSendMsg</value>
+  </data>
+  <data name="&gt;&gt;listView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="richTextBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabOnlinePlayerManagerPage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnAddAsMessage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblPlayerOnlineCount.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_AS_Service_Start.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnDisconnectListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>958, 85</value>
+  </data>
+  <data name="&gt;&gt;listView1.Name" xml:space="preserve">
+    <value>listView1</value>
+  </data>
+  <data name="&gt;&gt;AS_Msg_List.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;lblMSLogServerStatus.Name" xml:space="preserve">
+    <value>lblMSLogServerStatus</value>
+  </data>
+  <data name="btnStartListen.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 31</value>
+  </data>
+  <data name="btnMSClientStart.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>17</value>
+  </data>
+  <data name="tabPVPAlerts.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnSetInterval.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnUpdateAsMSG.Parent" xml:space="preserve">
+    <value>tab_AS_Manager</value>
+  </data>
+  <data name="&gt;&gt;btnSendMsg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>en</value>
