@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <StartupObject>BackendManager.Program</StartupObject>
-    <Version>1.4</Version>
+    <Version>0.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
