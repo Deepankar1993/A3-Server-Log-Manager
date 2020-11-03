@@ -6,6 +6,10 @@
     <UseWindowsForms>true</UseWindowsForms>
     <StartupObject>BackendManager.Program</StartupObject>
     <Version>0.0.2</Version>
+    <PackageId>A3ServerLogManager</PackageId>
+    <Authors>Deepankar Singh</Authors>
+    <Company>none</Company>
+    <Product>A3 Server Log Manager</Product>
   </PropertyGroup>
 
   <ItemGroup>
